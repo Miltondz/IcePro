@@ -1,0 +1,27 @@
+[
+  {
+    "producto": "Hielo en Cubitos",
+    "descripcion": "Refresca tus momentos con nuestros cubitos de hielo cristalino, perfectos para cualquier ocasión. Desde reuniones familiares hasta los cócteles más sofisticados en bares y restaurantes, nuestros cubitos, disponibles en diversos tamaños, garantizan el enfriamiento ideal para tus bebidas y la conservación de tus alimentos. ¡Descubre la pureza y calidad que marcan la diferencia!",
+    "tag_imagen": "/src/imagen/product1.jpg"
+  },
+  {
+    "producto": "Hielo en Barras o Bloques",
+    "descripcion": "Soluciones de enfriamiento a gran escala con nuestros imponentes bloques de hielo. Ideales para la industria pesquera, transporte refrigerado y eventos que demandan un enfriamiento prolongado, como esculturas de hielo y exhibiciones. Nuestros bloques de hielo aseguran una conservación eficaz y duradera.",
+    "tag_imagen": "/src/imagen/product2.jpg"
+  },
+  {
+    "producto": "Hielo Picado o Frappé",
+    "descripcion": "Crea experiencias únicas con nuestro hielo picado o frappé, el aliado perfecto para coctelería de autor, refrescantes granizados y presentaciones culinarias impactantes. Su textura fina y uniforme enfría rápidamente tus creaciones, resaltando los sabores y aromas. Ideal para bartenders profesionales y amantes de la mixología.",
+    "tag_imagen": "/src/imagen/product3.jpg"
+  },
+  {
+    "producto": "Hielo en Escamas",
+    "descripcion": "Conserva la frescura de tus productos con nuestro hielo en escamas, la opción predilecta para la industria pesquera y alimentaria. Sus delicadas láminas mantienen la humedad y la temperatura ideal de pescados, mariscos, verduras y otros productos frescos, prolongando su vida útil y garantizando la máxima calidad. También utilizado en laboratorios y aplicaciones médicas.",
+    "tag_imagen": "/src/imagen/product4.jpg"
+  },
+  {
+    "producto": "Hielo Seco (Hielo Carbónico)",
+    "descripcion": "Desata el poder del frío extremo con nuestro hielo seco (hielo carbónico). Perfecto para efectos especiales que deslumbran, transporte ultracongelado que protege la integridad de tus productos sensibles al calor y la innovadora limpieza criogénica. *Advertencia: requiere manejo especializado*.",
+    "tag_imagen": "/src/imagen/product5.jpg"
+  }
+]
