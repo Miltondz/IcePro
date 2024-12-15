@@ -27,7 +27,7 @@ export default function Contact() {
                 <input type="hidden" name="_captcha" value="false" />
                 <input type="hidden" name="_subject" value="Nuevo Mensaje de Contacto" />
                 <input type="hidden" name="_template" value="table" />
-                <input type="hidden" name="_next" value="https://yourdomain.com/thank-you" />
+                <input type="hidden" name="_next" value="https://ice-pro-gracias.tiiny.site" />
 
                 <div>
                   <label htmlFor="name" className="block text-sm font-medium text-gray-700">
