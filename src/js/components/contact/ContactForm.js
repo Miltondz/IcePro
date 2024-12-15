@@ -12,7 +12,7 @@ export function ContactForm() {
       <input type="hidden" name="_captcha" value="false">
       
       <!-- Success Page -->
-      <input type="hidden" name="_next" value="https://formsubmit.co/thanks">
+      <input type="hidden" name="_next" value="https://outstanding-woodpecker.static.domains/gracias.html">
 
       <div>
         <label for="name" class="block text-sm font-medium text-gray-700">Nombre</label>
