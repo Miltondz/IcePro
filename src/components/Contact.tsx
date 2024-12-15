@@ -17,8 +17,9 @@ export default function Contact() {
         <div className="mt-20">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
             <div>
+              {/* Form for submitting contact information */}
               <form 
-                action="https://formsubmit.co/your@email.com" 
+                action="https://formsubmit.co/azrraelcomics@gmail.com" 
                 method="POST" 
                 className="space-y-6"
               >
@@ -26,6 +27,7 @@ export default function Contact() {
                 <input type="hidden" name="_captcha" value="false" />
                 <input type="hidden" name="_subject" value="Nuevo Mensaje de Contacto" />
                 <input type="hidden" name="_template" value="table" />
+                <input type="hidden" name="_next" value="https://yourdomain.com/thank-you" />
 
                 <div>
                   <label htmlFor="name" className="block text-sm font-medium text-gray-700">
@@ -102,7 +104,19 @@ export default function Contact() {
             </div>
 
             <div className="space-y-8">
-              {/* Existing contact information */}
+              {/* Contact information can be added here */}
+              <div className="flex items-center space-x-4">
+                <Phone className="w-6 h-6 text-blue-600" />
+                <p className="text-lg text-gray-700">+1 123 456 7890</p>
+              </div>
+              <div className="flex items-center space-x-4">
+                <Mail className="w-6 h-6 text-blue-600" />
+                <p className="text-lg text-gray-700">contacto@tuempresa.com</p>
+              </div>
+              <div className="flex items-center space-x-4">
+                <MessageSquare className="w-6 h-6 text-blue-600" />
+                <p className="text-lg text-gray-700">Atención 24/7 para consultas</p>
+              </div>
             </div>
           </div>
         </div>
